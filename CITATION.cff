@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript and archived software release."
+title: "LED Video Screening Tool for Urban LED Display Screen Light-Pollution Exposure"
+version: "1.0.0"
+date-released: "2026-05-25"
+authors:
+  - family-names: "Zhang"
+    given-names: "Bing"
+  - family-names: "Lin"
+    given-names: "Yi"
+keywords:
+  - "urban LED display screens"
+  - "nighttime light pollution"
+  - "video-based screening"
+  - "environmental management"
+license: "NOASSERTION"

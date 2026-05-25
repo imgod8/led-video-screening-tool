@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# Local raw videos and large derived pixel tables
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+pixel_samples/
+*_pixel_samples.csv
+
+# Local run outputs
+led_video_screening_annotations/
+led_video_screening_results/
+annotations/
+outputs/
+results/
+
